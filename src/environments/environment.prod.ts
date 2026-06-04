@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://meditrack-api.onrender.com'
+  apiUrl: 'https://diginamic-meditrack-api.onrender.com'
 };
