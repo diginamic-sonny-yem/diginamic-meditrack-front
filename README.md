@@ -4,6 +4,12 @@ Application **Angular 17** (standalone components) de suivi de stock de medicame
 Ce depot est un **starter** pour une formation CI/CD GitHub Actions : vous allez ecrire
 vous-meme les workflows dans `.github/workflows/`.
 
+Url Pages : https://diginamic-sonny-yem.github.io/diginamic-meditrack-front/dashboard
+
+# MediTrack-api
+
+Url Render : https://diginamic-meditrack-api.onrender.com
+
 ## Prerequis
 
 - **Node.js 18+** (et npm)
